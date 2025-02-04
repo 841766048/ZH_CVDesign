@@ -1,0 +1,11 @@
+framework module CVDesign {
+  umbrella header "CVDesign.h"
+  export *
+
+  module * { export * }
+}
+
+module CVDesign.Swift {
+  header "CVDesign-Swift.h"
+  requires objc
+}
