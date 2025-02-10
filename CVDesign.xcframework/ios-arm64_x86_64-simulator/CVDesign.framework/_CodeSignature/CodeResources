@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		lOa4FGNYx8NhXDIlAcpsW+hdSZo=
+		kjzNO1EqF5Y581ePeJD8Tuv9zlE=
 		</data>
 		<key>Headers/CVDesign-Swift.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zo3bhvssyit18ehuFM3UNtxXTPQ=
+		KeyqhQ4WV0kJfxcFLbCiwzyoCsY=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+TRbogeNVoBbK4j2RGJN3pNu6vQ=
+		wC0wKzPGq/6XDGRXM91hhcjmd5U=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		rJrdj9SkuatPEFG/uQ6+zH5Eqfo=
+		0knnzdG3dxbAMl92JpbtyfbwvsI=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+TRbogeNVoBbK4j2RGJN3pNu6vQ=
+		wC0wKzPGq/6XDGRXM91hhcjmd5U=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aIy03gZwqUG9vMlXQ/d75tmeJAo=
+		rkYw5hCqvqNfEafwll+f2y8w5hY=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,19 +50,19 @@
 		</data>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2fCdUuXNJrnp0E7F8PaPBCJWuRQ=
+		mCesRnytdVMCIb90lbr4c0nTDao=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		D9L6PCbfZ1RFsrcyLJL2znTVWI8=
+		SHlaoicAnw3c50A6Z2cFWGGN2Q8=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2fCdUuXNJrnp0E7F8PaPBCJWuRQ=
+		mCesRnytdVMCIb90lbr4c0nTDao=
 		</data>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		w9Js4FxFk/YT9XGYRX50VCfQWN0=
+		bxbKK2iNEbgCYWhZqGtleQTgKr4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,7 +94,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hOFEz5Hn8G8aH4OgSq7pnCtxNiu1sPZ5ilHve3MSSHg=
+			KTin8jYylt/ddbJi0zPMzp5+SwVl7GJELv0+gk4zQuc=
 			</data>
 		</dict>
 		<key>Headers/CVDesign-Swift.h</key>
@@ -122,28 +122,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xUTzWG+RRRnR2anaSQTysRSxfIle6mgLAQmgLjL/rhg=
+			s0QaDA8Y1+pG5xOjMPdulYrtvbe4acd17uogZCjda3A=
 			</data>
 		</dict>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tFEG+SDhcBS/zu42rnmn/IZAw7R/zM7eC0ULSR6nVlk=
+			kb60YTi/qvsF/AuGlGmTh67CZgftpkuvUiJjHBTbhDU=
 			</data>
 		</dict>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xUTzWG+RRRnR2anaSQTysRSxfIle6mgLAQmgLjL/rhg=
+			s0QaDA8Y1+pG5xOjMPdulYrtvbe4acd17uogZCjda3A=
 			</data>
 		</dict>
 		<key>Modules/CVDesign.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PzK0HGNyQ/YDHA3CCZlnMhOETGTKZikKsed9Ris/BPw=
+			kaolmxVHJZftP2r3mI452sfRbgQLZmDqJYSQwOhncMM=
 			</data>
 		</dict>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -157,28 +157,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8hzAfCjrL9KSe4jU63FK6OWUnqY/7WlkvJEjVoanEqY=
+			dC+FJ9oDPnvAAdgH/AGtHdJVvBHnNrpLXblGiHF9ryU=
 			</data>
 		</dict>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lm1G6vXGtWBcL+AsaufZHNuYhs0mdqnaEqHEjDpSBBo=
+			vz2ez2v9uI+exqjpb2ZzYDJ3PcBXS21WznKP4ZUwIoc=
 			</data>
 		</dict>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8hzAfCjrL9KSe4jU63FK6OWUnqY/7WlkvJEjVoanEqY=
+			dC+FJ9oDPnvAAdgH/AGtHdJVvBHnNrpLXblGiHF9ryU=
 			</data>
 		</dict>
 		<key>Modules/CVDesign.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kHuvUVYDl/t/ly7j+PcSZAMUfzHj6gcGxw/aAXssaG0=
+			PjGuuY5PggwpYy43zvmCRTCMgN7YKr4Ez7OJFHS5Qv0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
