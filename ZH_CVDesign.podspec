@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
 # 仓库名称
   spec.name         = "ZH_CVDesign"
 # 仓库版本
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
 # 描述
   spec.summary      = "CVDesign Framework测试"
 
